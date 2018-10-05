@@ -6,4 +6,5 @@ up:
 		zimovnov/coursera-aml-docker
 
 down:
+	docker stop coursera-aml-1
 	docker rm coursera-aml-1
